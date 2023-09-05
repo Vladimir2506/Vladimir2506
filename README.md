@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently a PhD student at Tsinghua University. My research interests lie in deep learning and computer vision.
+
+- Read my [CV](CV_XZF_202308.pdf).
